@@ -1,0 +1,19 @@
+{
+  "name": "guess_number",
+  "version": "1.0.0",
+  "description": "Discord bot for a guess my number game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lnediak/guess_number.git"
+  },
+  "author": "Leonid Nediak",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/lnediak/guess_number/issues"
+  },
+  "homepage": "https://github.com/lnediak/guess_number#readme"
+}
