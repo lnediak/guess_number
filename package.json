@@ -11,9 +11,12 @@
     "url": "git+https://github.com/lnediak/guess_number.git"
   },
   "author": "Leonid Nediak",
-  "license": "Public Domain",
+  "license": "",
   "bugs": {
     "url": "https://github.com/lnediak/guess_number/issues"
   },
-  "homepage": "https://github.com/lnediak/guess_number#readme"
+  "homepage": "https://github.com/lnediak/guess_number#readme",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6"
+  }
 }
